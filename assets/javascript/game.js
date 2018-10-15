@@ -2,7 +2,6 @@ var targetNum;
 var totalScore = 0;
 var winCount = 0;
 var lossCount = 0;
-// random crystal value
 var blueVal;
 var pinkDrink;
 var yellowVal;
